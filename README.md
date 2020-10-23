@@ -1,0 +1,2 @@
+# Object-Detection-Cars
+This is a AI project that me and my friends are working on using Convolutional Neural Networks, and using Supervised Learning to detect different cars when images are given. We build this project with Python and using libraries like NumPy, and Pytorch. To train this dataset we used the Stanford Car Detection Dataset https://www.kaggle.com/jessicali9530/stanford-cars-dataset which contains about 16,000 images of different cars like supercars, trucks, sudans, suvs.
